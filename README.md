@@ -1,5 +1,5 @@
 # InterLM_camp3
-一个基于InterLM的武术评分器
+一个基于InterLM的武术评分器，，欢迎大家也来参加书生大模型实战营项目（http://github.com/internLM/tutorial）
 # Martial Arts Scoring System Based on InterLM
 
 Welcome to the Martial Arts Scoring System, a project designed to recognize and evaluate martial arts movements using advanced machine learning models. This system leverages the power of the YOLO (You Only Look Once) model for action recognition and a fine-tuned InterLM language model for scoring and feedback generation.
