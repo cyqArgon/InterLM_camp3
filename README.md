@@ -31,7 +31,7 @@ To get started with the Martial Arts Scoring System, follow these steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/martial-arts-scoring-system.git
+    git clone https://github.com/cyqArgon/martial-arts-scoring-system.git
     cd martial-arts-scoring-system
     ```
 
